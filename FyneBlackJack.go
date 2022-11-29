@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/RileySun/GoBlackJack"
 )
 
 func main() {
-	fmt.Println("Fyne Black Jack")
+	newHand := blackjack.GetHand()
+	fmt.Println(newHand)
 }
