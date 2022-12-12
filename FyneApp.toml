@@ -1,0 +1,8 @@
+Website = "https://github.com/RileySun/FyneBlackJack"
+
+[Details]
+  Icon = "Dist/Icon.png"
+  Name = "Fyne Black Jack"
+  ID = "com.sunshine.fyneblackjack"
+  Version = "1.0.0"
+  Build = 4

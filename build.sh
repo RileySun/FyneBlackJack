@@ -1,0 +1,1 @@
+~/Go/bin/fyne package -os darwin -icon Dist/Icon.png
